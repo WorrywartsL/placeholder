@@ -27,12 +27,12 @@ if [ "$is_valid_dbms" = false ]; then
 fi
 
 file_prefixes=(
-  "q1_sample"
-  "q2_successful_coaches"
-  "q3_Judo_athlete_medals"
-  "q4_Athletics_venue_athletes"
-  "q5_top5_rank_country_per_day"
-  "q6_big_progress_country_female_teams"
+  "myq1_sample"
+  "myq2_successful_coaches"
+  "myq3_Judo_athlete_medals"
+  "myq4_Athletics_venue_athletes"
+  "myq5_top5_rank_country_per_day"
+  "myq6_big_progress_country_female_teams"
 )
 
 for prefix in "${file_prefixes[@]}"; do

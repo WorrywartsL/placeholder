@@ -1,0 +1,8 @@
+┌──────────────┐
+│     name     │
+│   varchar    │
+├──────────────┤
+│ Bronze Medal │
+│ Gold Medal   │
+│ Silver Medal │
+└──────────────┘

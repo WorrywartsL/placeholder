@@ -1,0 +1,50 @@
+┌──────────────────────┬──────────────┐
+│      coach_name      │ medal_number │
+│       varchar        │    int64     │
+├──────────────────────┼──────────────┤
+│ BRECKENRIDGE Grant   │            9 │
+│ CAESAR Syque         │            9 │
+│ CAREY Brian          │            9 │
+│ CHEN Wei             │            9 │
+│ GAARENSTROOM Jordan  │            9 │
+│ GRABA Jess           │            9 │
+│ HE Hua               │            9 │
+│ JIN Weiguo           │            9 │
+│ LANDI Cecile         │            9 │
+│ LANDI Laurent        │            9 │
+│ LI Dezhi             │            9 │
+│ LIU Jinyu            │            9 │
+│ LIU Tao              │            9 │
+│ LIUKIN Valeri        │            9 │
+│ LU le                │            9 │
+│ MIKULAK Sam          │            9 │
+│ SUN Ping             │            9 │
+│ SUN Sonia            │            9 │
+│ TENG Haibin          │            9 │
+│ WANG Liming          │            9 │
+│      ·               │            · │
+│      ·               │            · │
+│      ·               │            · │
+│ VAISBURG Sergei      │            1 │
+│ VALLS NART Jordi     │            1 │
+│ VATKIN Vladimir      │            1 │
+│ VEGA HERRERO Anna    │            1 │
+│ VELASCO Julio        │            1 │
+│ VETTORI Nicola       │            1 │
+│ VILA Matias          │            1 │
+│ VOINEA Camelia       │            1 │
+│ VOLAVOLA Timoci      │            1 │
+│ WENG Shih-Hang       │            1 │
+│ WILLE Jonas          │            1 │
+│ WOODS Taryn          │            1 │
+│ WUDTKE Erik          │            1 │
+│ XU Yanshu            │            1 │
+│ YANITSAS Andrew      │            1 │
+│ ZOLGHADRI Farzad     │            1 │
+│ ZUSSMAN Ayelet       │            1 │
+│ de GIORGI Ferdinando │            1 │
+│ dos SANTOS Clayton   │            1 │
+│ van ECK Richard      │            1 │
+├──────────────────────┴──────────────┤
+│ 399 rows (40 shown)       2 columns │
+└─────────────────────────────────────┘
