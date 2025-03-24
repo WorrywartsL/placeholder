@@ -1,0 +1,50 @@
+┌───────────────────────────┬───────────────┐
+│       athlete_name        │ medals_number │
+│          varchar          │     int64     │
+├───────────────────────────┼───────────────┤
+│ ABE Hifumi                │             2 │
+│ AGBEGNENOU Clarisse       │             2 │
+│ BOUKLI Shirine            │             2 │
+│ BUCHARD Amandine          │             2 │
+│ CYSIQUE Sarah Leonie      │             2 │
+│ DICKO Romane              │             2 │
+│ FUNAKUBO Haruka           │             2 │
+│ GABA Joan-Benjamin        │             2 │
+│ HASHIMOTO Soichi          │             2 │
+│ HUH Mimi                  │             2 │
+│ KIM Hayun                 │             2 │
+│ KIM Minjong               │             2 │
+│ LEE Joonhwan              │             2 │
+│ LIMA Willian              │             2 │
+│ MKHEIDZE Luka             │             2 │
+│ MURAO Sanshiro            │             2 │
+│ NAGASE Takanori           │             2 │
+│ NAGAYAMA Ryuju            │             2 │
+│ NGAYAP HAMBOU Maxime-Gael │             2 │
+│ PIMENTA Larissa           │             2 │
+│     ·                     │             · │
+│     ·                     │             · │
+│     ·                     │             · │
+│ XU Shiyan                 │             0 │
+│ YANG Yung Wei             │             0 │
+│ YEATS-BROWN Katie-Jemima  │             0 │
+│ YILDIZ Salih              │             0 │
+│ YONDONPERENLEI Baskhuu    │             0 │
+│ YONEZUKA Jack             │             0 │
+│ YULDOSHEV Murodjon        │             0 │
+│ ZABIC Milica              │             0 │
+│ ZACHOVA Renata            │             0 │
+│ ZGANK Mihael              │             0 │
+│ ZHU Yeqing                │             0 │
+│ ZHUBANAZAR Abylaikhan     │             0 │
+│ ZULU Simon                │             0 │
+│ de OLIVEIRA Roldeney      │             0 │
+│ de VILLIERS Moira         │             0 │
+│ de WIT Frank              │             0 │
+│ del TORO CARVAJAL Maylin  │             0 │
+│ van DIJKE Sanne           │             0 │
+│ van LIESHOUT Joanne       │             0 │
+│ van T END Noel            │             0 │
+├───────────────────────────┴───────────────┤
+│ 378 rows (40 shown)             2 columns │
+└───────────────────────────────────────────┘

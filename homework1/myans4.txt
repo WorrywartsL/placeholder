@@ -1,0 +1,50 @@
+┌─────────────────────────┬──────────────────────────┬──────────────────────────┐
+│      athlete_name       │ represented_country_code │ nationality_country_code │
+│         varchar         │         varchar          │         varchar          │
+├─────────────────────────┼──────────────────────────┼──────────────────────────┤
+│ GREEN Joseph            │ GUM                      │ USA                      │
+│ TUGADE-WATSON Regine    │ GUM                      │ USA                      │
+│ CABANG John             │ PHI                      │ ESP                      │
+│ IAKOPO Filomenaleonisa  │ ASA                      │ USA                      │
+│ HOWELL Davonte          │ CAY                      │ GBR                      │
+│ JALLOW Sanu             │ GAM                      │ USA                      │
+│ BRATHWAITE Rikkoi       │ IVB                      │ GBR                      │
+│ HODGE Adaejah           │ IVB                      │ GBR                      │
+│ McMASTER Kyron          │ IVB                      │ GBR                      │
+│ PERINCHIEF Jah-Nhai     │ BER                      │ GBR                      │
+│ ABRAMS Aliyah           │ GUY                      │ USA                      │
+│ WILSON Talei            │ FIJ                      │ AUS                      │
+│ D'AMOUR Nicholas        │ ISV                      │ USA                      │
+│ GARCIA Eduardo Terrance │ ISV                      │ USA                      │
+│ CAMACHO-QUINN Jasmine   │ PUR                      │ USA                      │
+│ CASTRO RIVERA Luis      │ PUR                      │ USA                      │
+│ CLAXTON Grace           │ PUR                      │ USA                      │
+│ OWENS-DELERME Ayden     │ PUR                      │ USA                      │
+│ RIVERA Alondra          │ PUR                      │ USA                      │
+│ SCOTT Gabby             │ PUR                      │ USA                      │
+│      ·                  │  ·                       │  ·                       │
+│      ·                  │  ·                       │  ·                       │
+│      ·                  │  ·                       │  ·                       │
+│ van BAARLE Dylan        │ NED                      │ NED                      │
+│ van CAMP Emma           │ SUI                      │ SUI                      │
+│ van DAALEN Alida        │ NED                      │ NED                      │
+│ van DIJK Ellen          │ NED                      │ NED                      │
+│ van DYK Jo-Ane          │ RSA                      │ RSA                      │
+│ van ES Diane            │ NED                      │ NED                      │
+│ van HUNENSTIJN Marije   │ NED                      │ NED                      │
+│ van KLINKEN Jorinde     │ NED                      │ NED                      │
+│ van NIEKERK Wayde       │ RSA                      │ RSA                      │
+│ van VUUREN Jovan        │ RSA                      │ RSA                      │
+│ van WYK Shilton         │ RSA                      │ RSA                      │
+│ van ZYL Irvette         │ RSA                      │ RSA                      │
+│ van de VELDE Julie      │ BEL                      │ BEL                      │
+│ van de WIEL Anne        │ NED                      │ NED                      │
+│ van den BERG Isabel     │ NED                      │ NED                      │
+│ van den BROECK Naomi    │ BEL                      │ BEL                      │
+│ van der POEL Mathieu    │ NED                      │ NED                      │
+│ van der SCHOOT Myrte    │ NED                      │ NED                      │
+│ van der WEKEN Patrizia  │ LUX                      │ LUX                      │
+│ van der WINKEL Laura    │ NED                      │ NED                      │
+├─────────────────────────┴──────────────────────────┴──────────────────────────┤
+│ 2568 rows (40 shown)                                                3 columns │
+└───────────────────────────────────────────────────────────────────────────────┘

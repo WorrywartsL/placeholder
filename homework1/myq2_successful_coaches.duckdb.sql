@@ -3,6 +3,7 @@
 
 -- Details: A medal is credited to a coach if it shares the same country and discipline with the coach, 
 -- regardless of the gender or event. Consider to use winner_code of one medal to decide its country.
+-- Output Format: COACH_NAME|MEDAL_NUMBER
 
 with temp_teams as (
     select code, country_code 

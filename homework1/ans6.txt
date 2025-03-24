@@ -1,0 +1,50 @@
+┌──────────────┬─────────────────────────────┬───────────────────┐
+│ country_code │ increased_gold_medal_number │     team_code     │
+│   varchar    │            int64            │      varchar      │
+├──────────────┼─────────────────────────────┼───────────────────┤
+│ KOR          │                           7 │ ARCWTEAM3---KOR01 │
+│ KOR          │                           7 │ BDMWDOUBLES-KOR01 │
+│ KOR          │                           7 │ BDMWDOUBLES-KOR02 │
+│ KOR          │                           7 │ FENWTEAMEPEEKOR01 │
+│ KOR          │                           7 │ FENWTEAMSABRKOR01 │
+│ KOR          │                           7 │ GARWTEAM----KOR01 │
+│ KOR          │                           7 │ HBLWTEAM7---KOR01 │
+│ KOR          │                           7 │ SWAWTEAM2---KOR01 │
+│ KOR          │                           7 │ TTEWTEAM----KOR01 │
+│ FRA          │                           6 │ ARCWTEAM3---FRA01 │
+│ FRA          │                           6 │ ATHW4X100M--FRA01 │
+│ FRA          │                           6 │ ATHW4X400M--FRA01 │
+│ FRA          │                           6 │ BDMWDOUBLES-FRA01 │
+│ FRA          │                           6 │ BK3WTEAM3---FRA01 │
+│ FRA          │                           6 │ BKBWTEAM5---FRA01 │
+│ FRA          │                           6 │ CSPWC2-500M-FRA01 │
+│ FRA          │                           6 │ CSPWK2-500M-FRA01 │
+│ FRA          │                           6 │ CTRWMADISON-FRA01 │
+│ FRA          │                           6 │ CTRWPURTEAM4FRA01 │
+│ FRA          │                           6 │ DIVW10MTEAM2FRA01 │
+│  ·           │                           · │         ·         │
+│  ·           │                           · │         ·         │
+│  ·           │                           · │         ·         │
+│ NZL          │                           3 │ CTRWMADISON-NZL01 │
+│ NZL          │                           3 │ CTRWPURTEAM4NZL01 │
+│ NZL          │                           3 │ CTRWSPRTEAM3NZL01 │
+│ NZL          │                           3 │ FBLWTEAM11--NZL01 │
+│ NZL          │                           3 │ ROWWNOCOX2--NZL01 │
+│ NZL          │                           3 │ ROWWNOCOX4--NZL01 │
+│ NZL          │                           3 │ ROWWSCULL2--NZL01 │
+│ NZL          │                           3 │ ROWWSCULL2-LNZL01 │
+│ NZL          │                           3 │ RU7WTEAM7---NZL01 │
+│ NZL          │                           3 │ SALW49ERFX--NZL01 │
+│ NZL          │                           3 │ SWAWTEAM2---NZL01 │
+│ NZL          │                           3 │ SWMW4X200MFRNZL01 │
+│ NZL          │                           3 │ T029092105234     │
+│ NZL          │                           3 │ T051068010116     │
+│ NZL          │                           3 │ T143157012191     │
+│ NZL          │                           3 │ T159071241179     │
+│ NZL          │                           3 │ T177095146045     │
+│ NZL          │                           3 │ T186119241049     │
+│ NZL          │                           3 │ T246191162159     │
+│ NZL          │                           3 │ TENWDOUBLES-NZL01 │
+├──────────────┴─────────────────────────────┴───────────────────┤
+│ 92 rows (40 shown)                                   3 columns │
+└────────────────────────────────────────────────────────────────┘
